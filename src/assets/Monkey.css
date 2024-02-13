@@ -1,0 +1,10 @@
+.monkey {
+  width: 100svw;
+  height: 100svh;
+}
+
+.monkeyImg {
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+}
